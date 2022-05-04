@@ -1,1 +1,6 @@
-3) Xiaomi p20
+<<<<<<< HEAD
+3) Xiaomi
+1)
+2)1231
+3) Samsun
+4) apple_play
