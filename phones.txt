@@ -2,5 +2,12 @@
 3) Xiaomi
 1)
 2)1231
+<<<<<<< HEAD
 3) Samsun
 4) apple_play
+=======
+3) Samsung
+4)Best phone
+5)Worst Phone
+6) MyPhone
+>>>>>>> 0e4c4c13d10501fa7c00b01509b09dbcdf9e397e
